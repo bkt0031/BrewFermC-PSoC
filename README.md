@@ -1,2 +1,2 @@
 # BrewFermC-PSoC
-Beer fermentation controller PSoC code
+Fermentation controller PSoC code
